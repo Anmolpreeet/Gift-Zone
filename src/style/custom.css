@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Bad+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Tammudu+2&family=Viaoda+Libre&display=swap');
+/* 
+    font-family: 'Baloo Tammudu 2', cursive;
+    font-family: 'Viaoda Libre', cursive;
+    font-family: 'Bad Script', cursive;
+*/
+
+
+.logo-font{
+    font-family: 'Bad Script', cursive;
+    font-size: 1.4em !important;
+    font-weight:500 ;
+    color: #ffffff;
+}
+
+.title{
+    color:  #4d283f;
+    font-family: 'Viaoda Libre', cursive;
+    font-size: 2.2rem !important;
+}
+
+.card-title{
+    font-family: 'Baloo Tammudu 2', cursive;
+}
+.columns{
+    justify-content: center;
+}
+
+.is-rounded{
+    border: 50%;
+}
+
+.quoters{
+
+    line-height: 1.6em;
+}
+
+.foot-qoutes{
+    border-bottom: 1px solid;
+}
+.copy-quotes{
+    border-top: 1px-solid;
+}
+
+footer .section{
+    position:relative !important;
+    top: 0 !important;
+}
+
+
